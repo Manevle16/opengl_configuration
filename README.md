@@ -41,6 +41,8 @@ e.g.
 
 <img src="https://i.imgur.com/UULN4Gd.png"/>
 
+Make sure the project name itself is selected before adding the existing property sheet. Select OPENGL.props and NANOGUI.props here and they should appear in the debug and release folder once added
+
 4: Set build configurations to run on x64
 
 4.a: Project -> Properties -> Platform (at top)
